@@ -29,7 +29,6 @@
 [all]Mercedes7
 [all]Taazuma
 [all]Uzumaki Boruto
-[all]wladi0
 [all]PSDmum
 [all]Qyrie
 [all]rottenentrailz
