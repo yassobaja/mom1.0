@@ -1,5 +1,4 @@
 Chaos
-wladi0
 Counter
 finndev
 JokerArt
